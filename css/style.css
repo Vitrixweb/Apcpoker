@@ -411,6 +411,7 @@ body {
 	letter-spacing: .05em;
 	color:black;
 	background: radial-gradient(50% 50% at 50% 50%, #6B6B6B 0%, #292929 100%);
+	background: black;
 	-webkit-text-size-adjust: none;
 	-webkit-font-smoothing: subpixel-antialiased;
 }
